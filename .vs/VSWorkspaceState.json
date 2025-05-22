@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\packages",
+    "\\WebTimeSheetManagement",
+    "\\WebTimeSheetManagement\\Controllers",
+    "\\WebTimeSheetManagement\\Views",
+    "\\WebTimeSheetManagement\\Views\\Login"
+  ],
+  "SelectedNode": "\\WebTimeSheetManagement\\Controllers\\AdminController.cs",
+  "PreviewInSolutionExplorer": false
+}

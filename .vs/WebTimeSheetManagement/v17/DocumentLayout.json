@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TimeSheetProject\\WebTimeSheetManagement-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{589B6CDA-A82D-4F89-88F8-8307327399AF}|WebTimeSheetManagement\\WebTimeSheetManagement.csproj|d:\\timesheetproject\\webtimesheetmanagement-master\\webtimesheetmanagement\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{589B6CDA-A82D-4F89-88F8-8307327399AF}|WebTimeSheetManagement\\WebTimeSheetManagement.csproj|solutionrelative:webtimesheetmanagement\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589B6CDA-A82D-4F89-88F8-8307327399AF}|WebTimeSheetManagement\\WebTimeSheetManagement.csproj|D:\\TimeSheetProject\\WebTimeSheetManagement-master\\webtimesheetmanagement\\views\\shared\\_layouttimesheet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{589B6CDA-A82D-4F89-88F8-8307327399AF}|WebTimeSheetManagement\\WebTimeSheetManagement.csproj|solutionrelative:webtimesheetmanagement\\views\\shared\\_layouttimesheet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537C72C9-A6CC-45AB-B235-5C8C38A5D673}|WebTimeSheetManagement.Concrete\\WebTimeSheetManagement.Concrete.csproj|D:\\TimeSheetProject\\WebTimeSheetManagement-master\\webtimesheetmanagement.concrete\\timesheetconcrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537C72C9-A6CC-45AB-B235-5C8C38A5D673}|WebTimeSheetManagement.Concrete\\WebTimeSheetManagement.Concrete.csproj|solutionrelative:webtimesheetmanagement.concrete\\timesheetconcrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589B6CDA-A82D-4F89-88F8-8307327399AF}|WebTimeSheetManagement\\WebTimeSheetManagement.csproj|D:\\TimeSheetProject\\WebTimeSheetManagement-master\\webtimesheetmanagement\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589B6CDA-A82D-4F89-88F8-8307327399AF}|WebTimeSheetManagement\\WebTimeSheetManagement.csproj|solutionrelative:webtimesheetmanagement\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACCB7ED-9572-4EF6-9FA0-5B195C470962}|WebTimeSheetManagement.Models\\WebTimeSheetManagement.Models.csproj|D:\\TimeSheetProject\\WebTimeSheetManagement-master\\webtimesheetmanagement.models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACCB7ED-9572-4EF6-9FA0-5B195C470962}|WebTimeSheetManagement.Models\\WebTimeSheetManagement.Models.csproj|solutionrelative:webtimesheetmanagement.models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589B6CDA-A82D-4F89-88F8-8307327399AF}|WebTimeSheetManagement\\WebTimeSheetManagement.csproj|D:\\TimeSheetProject\\WebTimeSheetManagement-master\\webtimesheetmanagement\\controllers\\showalltimesheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589B6CDA-A82D-4F89-88F8-8307327399AF}|WebTimeSheetManagement\\WebTimeSheetManagement.csproj|solutionrelative:webtimesheetmanagement\\controllers\\showalltimesheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589B6CDA-A82D-4F89-88F8-8307327399AF}|WebTimeSheetManagement\\WebTimeSheetManagement.csproj|D:\\TimeSheetProject\\WebTimeSheetManagement-master\\webtimesheetmanagement\\controllers\\timesheetexportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589B6CDA-A82D-4F89-88F8-8307327399AF}|WebTimeSheetManagement\\WebTimeSheetManagement.csproj|solutionrelative:webtimesheetmanagement\\controllers\\timesheetexportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\TimeSheetProject\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\TimeSheetProject\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "WebTimeSheetManagement\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T05:16:46.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutTimeSheet.cshtml",
+              "DocumentMoniker": "D:\\TimeSheetProject\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Views\\Shared\\_LayoutTimeSheet.cshtml",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Views\\Shared\\_LayoutTimeSheet.cshtml",
+              "ToolTip": "D:\\TimeSheetProject\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Views\\Shared\\_LayoutTimeSheet.cshtml",
+              "RelativeToolTip": "WebTimeSheetManagement\\Views\\Shared\\_LayoutTimeSheet.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T04:32:55.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "D:\\TimeSheetProject\\WebTimeSheetManagement-master\\WebTimeSheetManagement.Models\\Registration.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement.Models\\Registration.cs",
+              "ToolTip": "D:\\TimeSheetProject\\WebTimeSheetManagement-master\\WebTimeSheetManagement.Models\\Registration.cs",
+              "RelativeToolTip": "WebTimeSheetManagement.Models\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:04:54.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeSheetConcrete.cs",
+              "DocumentMoniker": "D:\\TimeSheetProject\\WebTimeSheetManagement-master\\WebTimeSheetManagement.Concrete\\TimeSheetConcrete.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement.Concrete\\TimeSheetConcrete.cs",
+              "ToolTip": "D:\\TimeSheetProject\\WebTimeSheetManagement-master\\WebTimeSheetManagement.Concrete\\TimeSheetConcrete.cs",
+              "RelativeToolTip": "WebTimeSheetManagement.Concrete\\TimeSheetConcrete.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAAwK4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:41:51.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\TimeSheetProject\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\TimeSheetProject\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAMBdwHYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:14:02.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShowAllTimeSheetController.cs",
+              "DocumentMoniker": "D:\\TimeSheetProject\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ShowAllTimeSheetController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\ShowAllTimeSheetController.cs",
+              "ToolTip": "D:\\TimeSheetProject\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ShowAllTimeSheetController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\ShowAllTimeSheetController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:13:02.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimeSheetExportController.cs",
+              "DocumentMoniker": "D:\\TimeSheetProject\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\TimeSheetExportController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\TimeSheetExportController.cs",
+              "ToolTip": "D:\\TimeSheetProject\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\TimeSheetExportController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\TimeSheetExportController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAcwJMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:33:28.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

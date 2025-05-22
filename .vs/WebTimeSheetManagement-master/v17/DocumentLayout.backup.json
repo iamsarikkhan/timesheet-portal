@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\TeamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\TeamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ShowAllExpenseController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\ShowAllExpenseController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ProjectController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\ProjectController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\UserProfileController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\UserProfileController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ResetPasswordController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\ResetPasswordController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ShowAllTimeSheetController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\ShowAllTimeSheetController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\UserDashboardController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\UserDashboardController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\TimeSheetExportController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\TimeSheetExportController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\TimeSheetMasterExportController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\TimeSheetMasterExportController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\README.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Views\\Login\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Views\\Login\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\AddNotificationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\AddNotificationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\NotificationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\NotificationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ExpenseMasterExportController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\ExpenseMasterExportController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ExpenseExportController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\ExpenseExportController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\DemoAssignController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\DemoAssignController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\AllExpenseController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\AllExpenseController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ErrorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTimeSheetManagement\\Controllers\\ErrorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 163,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\TeamController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\TeamController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwEUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\UserProfileController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\UserProfileController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\UserProfileController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResetPasswordController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ResetPasswordController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\ResetPasswordController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ResetPasswordController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\ResetPasswordController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\ProjectController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowAllExpenseController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ShowAllExpenseController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\ShowAllExpenseController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ShowAllExpenseController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\ShowAllExpenseController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAKYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShowAllTimeSheetController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ShowAllTimeSheetController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\ShowAllTimeSheetController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ShowAllTimeSheetController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\ShowAllTimeSheetController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAH4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDashboardController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\UserDashboardController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\UserDashboardController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\UserDashboardController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\UserDashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TimeSheetExportController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\TimeSheetExportController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\TimeSheetExportController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\TimeSheetExportController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\TimeSheetExportController.cs",
+              "ViewState": "AQIAAP8AAAAAAAAAAAAhwAwBAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimeSheetMasterExportController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\TimeSheetMasterExportController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\TimeSheetMasterExportController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\TimeSheetMasterExportController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\TimeSheetMasterExportController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-22T09:10:42.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "WebTimeSheetManagement\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAjwB8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T09:10:42.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddNotificationController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\AddNotificationController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\AddNotificationController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\AddNotificationController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\AddNotificationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\NotificationController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\NotificationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExpenseMasterExportController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ExpenseMasterExportController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\ExpenseMasterExportController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ExpenseMasterExportController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\ExpenseMasterExportController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExpenseExportController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ExpenseExportController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\ExpenseExportController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ExpenseExportController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\ExpenseExportController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAADMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DemoAssignController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\DemoAssignController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\DemoAssignController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\DemoAssignController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\DemoAssignController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AllExpenseController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\AllExpenseController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\AllExpenseController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\AllExpenseController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\AllExpenseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "WebTimeSheetManagement\\Controllers\\ErrorController.cs",
+              "ToolTip": "D:\\FullBackup\\Backedup44\\Programs\\WebTimeSheetManagement-master\\WebTimeSheetManagement-master\\WebTimeSheetManagement\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "WebTimeSheetManagement\\Controllers\\ErrorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:10:42.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
